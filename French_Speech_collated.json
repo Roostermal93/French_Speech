@@ -8,14 +8,14 @@
             "collectionId": "French",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/French/French_Speech/6e868295-c67f-47df-a21c-e77dd359889a/6e868295-c67f-47df-a21c-e77dd359889a_fr_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/French/6e868295-c67f-47df-a21c-e77dd359889a_Fr_Female.mp4"
         },
         {
             "id": "80d309af-df80-444e-bf17-f9d95b76b6f9",
             "collectionId": "French",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/French/French_Speech/80d309af-df80-444e-bf17-f9d95b76b6f9/80d309af-df80-444e-bf17-f9d95b76b6f9_fr_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/French/80d309af-df80-444e-bf17-f9d95b76b6f9_Fr_Female.mp4"
         }
     ]
 }
